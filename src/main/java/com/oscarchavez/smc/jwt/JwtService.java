@@ -20,7 +20,7 @@ import io.jsonwebtoken.security.Keys;
 @Service
 public class JwtService {
 
-    @Value("${secret_key}")
+    @Value("${jwtsecret_key}")
     private String secretKey;
 
     public String getToken(UserDetails user) {
