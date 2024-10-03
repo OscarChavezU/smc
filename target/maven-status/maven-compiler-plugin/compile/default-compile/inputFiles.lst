@@ -1,38 +1,38 @@
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\AuthController.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\AuthResponse.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\AuthService.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\LoginRequest.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\RegisterRequest.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\cloudinary\CloudinaryConfig.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\cloudinary\CloudinaryService.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\config\ApplicationConfig.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\config\SecurityConfig.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\config\WebConfig.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\controller\GastoController.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\controller\NotaController.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\controller\ProductoController.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\controller\ProfileController.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\dto\GastoDto.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\dto\NotaDto.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\dto\ProductoResDto.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\jwt\JwtAuthenticationFilter.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\jwt\JwtService.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Areaacceso.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\FotoProd.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Gasto.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Marca.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Nota.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Producto.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\User.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\FotoProdRepository.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\GastoRepository.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\MarcaRepository.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\NotaRepository.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\ProductoRepository.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\UserRepository.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\FotoProdService.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\GastoService.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\MarcaService.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\NotaService.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\ProductoService.java
-D:\desarrollo vps\software Natalie\smc\src\main\java\com\oscarchavez\smc\SmcApplication.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\AuthController.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\AuthResponse.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\AuthService.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\LoginRequest.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\auth\RegisterRequest.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\cloudinary\CloudinaryConfig.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\cloudinary\CloudinaryService.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\config\ApplicationConfig.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\config\SecurityConfig.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\config\WebConfig.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\controller\GastoController.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\controller\NotaController.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\controller\ProductoController.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\controller\ProfileController.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\dto\GastoDto.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\dto\NotaDto.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\dto\ProductoResDto.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\jwt\JwtAuthenticationFilter.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\jwt\JwtService.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Areaacceso.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\FotoProd.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Gasto.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Marca.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Nota.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\Producto.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\model\User.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\FotoProdRepository.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\GastoRepository.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\MarcaRepository.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\NotaRepository.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\ProductoRepository.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\repository\UserRepository.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\FotoProdService.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\GastoService.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\MarcaService.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\NotaService.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\service\ProductoService.java
+D:\Proyectos Full Stack\software Natalie\smc\src\main\java\com\oscarchavez\smc\SmcApplication.java

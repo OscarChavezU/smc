@@ -123,7 +123,7 @@ public class ProductoController {
             FotoProd fotoProd = fotoProdService.createFotoProd();
 
             if (foto != null && !foto.isEmpty()) {
-                String url = cloudinaryService.uploadFile(foto,fotoProd.getIdfoto());
+                String url = cloudinaryService.uploadFile(foto,String.valueOf(fotoProd.getIdfoto()));
                 fotoProd = fotoProdService.updateFotoProdUrl(fotoProd.getIdfoto(), url);
             }
 
@@ -182,7 +182,7 @@ public class ProductoController {
             FotoProd fotoProd = productoActual.getFotoProd();
 
             if (foto != null && !foto.isEmpty() && quiereFoto.equals("SI")) {
-                String url = cloudinaryService.uploadFile(foto,fotoProd.getIdfoto());
+                String url = cloudinaryService.uploadFile(foto,String.valueOf(fotoProd.getIdfoto()));
                 fotoProd = fotoProdService.updateFotoProdUrl(fotoProd.getIdfoto(), url);
             }
 

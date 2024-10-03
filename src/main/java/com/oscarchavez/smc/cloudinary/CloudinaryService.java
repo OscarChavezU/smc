@@ -19,7 +19,7 @@ public class CloudinaryService {
     @Value("${cloudinary.carpeta}")
     private String carpeta;
 
-    public String uploadFile(MultipartFile file, int idfoto) throws IOException {
+    public String uploadFile(MultipartFile file, String idfoto) throws IOException {
         Map uploadResult = cloudinary.uploader().upload(file.getBytes(), ObjectUtils.asMap(
             "folder", carpeta ,
             "public_id", idfoto // Especifica la carpeta
